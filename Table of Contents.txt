@@ -1,0 +1,43 @@
+101 - R
+102 - R
+103 - R
+104 - R (incomplete)
+105 - R
+106 - R
+107 - R
+108 - R
+109 - R
+110 - R (same file as 108)
+111 - R
+112 - R
+114 - R
+115 - R
+116 - R
+117 - R
+119 - R
+120 - R
+121 - R
+122 - R
+123 - R
+124 - R
+125 - R
+128 - R
+132 - R (incomplete)
+134 - R
+145 - R 
+151 - R
+158 - R
+162 - R
+173 - R
+183 - R
+182 - Java
+187 - R (incomplete)
+191 - R
+203 - R
+204 - R
+205 - R
+206 - R
+214 - R (incomplete)
+243 - R
+449 - Pen and paper
+451 - R (incomplete)
