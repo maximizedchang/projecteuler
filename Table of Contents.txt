@@ -1,7 +1,7 @@
 101 - R
 102 - R
 103 - R
-104 - R (incomplete)
+104 - Java
 105 - R
 106 - R
 107 - R
@@ -29,8 +29,9 @@
 158 - R
 162 - R
 173 - R
+179 - Java
 183 - R
-182 - Java
+185 - Java
 187 - R (incomplete)
 191 - R
 203 - R
@@ -38,6 +39,9 @@
 205 - R
 206 - R
 214 - R (incomplete)
+235 - Java
 243 - R
+267 - R
+389 - Pencil and paper
 449 - Pen and paper
 451 - R (incomplete)
